@@ -1,0 +1,52 @@
+[
+  {
+    "id": "m1",
+    "name_de": "M. biceps brachii",
+    "name_la": "Biceps brachii",
+    "origin": "Tuberculum supraglenoidale scapulae; processus coracoideus",
+    "insertion": "Tuberositas radii",
+    "function": "Flexion im Ellbogengelenk; Supination des Unterarms",
+    "innervation": "N. musculocutaneus (C5-C6)",
+    "hotspot": [0.0, 0.0, 0.0]
+  },
+  {
+    "id": "m2",
+    "name_de": "M. triceps brachii",
+    "name_la": "Triceps brachii",
+    "origin": "Caput longum: Tuberculum infraglenoidale; Caput laterale/mediale: Humerus",
+    "insertion": "Olecranon ulnae",
+    "function": "Extension im Ellbogengelenk",
+    "innervation": "N. radialis (C6-C8)",
+    "hotspot": [0.2, 0.0, 0.0]
+  },
+  {
+    "id": "k1",
+    "name_de": "Humerus",
+    "name_la": "Humerus",
+    "origin": "-",
+    "insertion": "-",
+    "function": "Oberarmknochen, Ansatz für mehrere Muskeln",
+    "innervation": "-",
+    "hotspot": [-0.2, 0.0, 0.0]
+  },
+  {
+    "id": "m3",
+    "name_de": "M. deltoideus",
+    "name_la": "Deltoideus",
+    "origin": "Clavicula, Acromion, Spina scapulae",
+    "insertion": "Tuberositas deltoidea humeri",
+    "function": "Abduktion, Flexion und Extension im Schultergelenk",
+    "innervation": "N. axillaris (C5-C6)",
+    "hotspot": [0.0, 0.2, 0.0]
+  },
+  {
+    "id": "m4",
+    "name_de": "M. pectoralis major",
+    "name_la": "Pectoralis major",
+    "origin": "Clavicula, Sternum, Rippenknorpel",
+    "insertion": "Crista tuberculi majoris humeri",
+    "function": "Adduktion und Innenrotation des Oberarms",
+    "innervation": "Nn. pectorales (C5-T1)",
+    "hotspot": [0.0, -0.2, 0.0]
+  }
+]
