@@ -1,0 +1,14 @@
+/* Basic styles for prototype layout */
+:root{
+  --bg:#0f1724;
+  --panel:#0b1220;
+  --text:#e6eef8;
+}
+html,body,#root{height:100%;margin:0}
+body{font-family:Inter, Arial, sans-serif;background:linear-gradient(180deg,#071022, #07263a);color:var(--text)}
+.header{padding:12px 20px;font-size:18px;font-weight:600}
+.container{display:flex;height:calc(100vh - 52px)}
+.viewer{flex:1;border-right:1px solid rgba(255,255,255,0.04)}
+.sidebar{width:360px;padding:16px;background:rgba(5,9,14,0.5);overflow:auto}
+section h2{margin:0 0 8px 0}
+button{padding:6px 10px;border-radius:6px;border:0;background:#0ea5a4;color:white;cursor:pointer}
